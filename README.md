@@ -2,13 +2,14 @@ This is a website I built hosted at https://orshy.github.io/Made-to-dance-in-bur
 
 HTML,
 PostCSS,
+BEM,
 JavaScript/jQuery,
 GULP,
 Webpack,
 Babel,
 NPM
 
-The JavaScript and PostCSS modules have been compiled into single files.
+The JavaScript and PostCSS modules have been compiled into single .css and .js files.
 
 Feel free to clone the project, 
 
