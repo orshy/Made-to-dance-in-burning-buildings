@@ -1,8 +1,7 @@
-This is a website I built hosted at https://orshy.github.io/Made-to-dance-in-burning-buildings/app/. The technologies utilized in this project are:
+A website built for a client https://orshy.github.io/Made-to-dance-in-burning-buildings/app/. The technologies used are:
 
 HTML,
 PostCSS,
-BEM,
 JavaScript/jQuery,
 GULP,
 Webpack,
